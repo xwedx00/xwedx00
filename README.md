@@ -15,7 +15,7 @@
 </div>
 
 ###
-
+<img src="https://user-images.githubusercontent.com/74038190/240885304-19b4ef1d-2035-4e6f-8484-8bd79d604dc9.gif" />
 <br clear="both">
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Anguished%20Face.png"  />
@@ -51,9 +51,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=xwedx00&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xwedx00&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xwedx00&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xwedx00&limit=5&theme=dark&combine_all_yearly_contributions=true)
